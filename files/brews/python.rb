@@ -5,7 +5,7 @@ class Python < Formula
   head "https://hg.python.org/cpython", :using => :hg, :branch => "2.7"
   url "https://www.python.org/ftp/python/2.7.10/Python-2.7.10.tgz"
   sha1 "49089f1f6ab445dc8ace97beeb276095c4c8039b"
-  version '2.7.9-boxen1'
+  version '2.7.10'
 
   bottle do
     revision 7
